@@ -1,5 +1,5 @@
 #   TMDB
-
+![grab-landing-page](https://i.imgflip.com/45f3kd.gif)
 > A Vue.js project
 
 ## Build Setup
